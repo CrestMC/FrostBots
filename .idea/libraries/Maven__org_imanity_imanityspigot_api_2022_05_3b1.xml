@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.imanity.imanityspigot:api:2022.05.3b1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/imanity/imanityspigot/api/2022.05.3b1/api-2022.05.3b1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/imanity/imanityspigot/api/2022.05.3b1/api-2022.05.3b1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/imanity/imanityspigot/api/2022.05.3b1/api-2022.05.3b1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: dev.imanity.knockback:api:0.0.1b1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/dev/imanity/knockback/api/0.0.1b1-SNAPSHOT/api-0.0.1b1-20220522.011710-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/dev/imanity/knockback/api/0.0.1b1-SNAPSHOT/api-0.0.1b1-20220522.011710-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/dev/imanity/knockback/api/0.0.1b1-SNAPSHOT/api-0.0.1b1-20220522.011710-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

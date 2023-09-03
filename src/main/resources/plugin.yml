@@ -1,0 +1,20 @@
+name: FrostBots
+version: '${project.version}'
+main: me.blurmit.frostbots.FrostBots
+prefix: FrostBots
+load: STARTUP
+depend:
+  - Frost
+  - Multiverse-Core
+authors: [Blurmit]
+description: An extension to the Frost plugin which implements PvP bots
+website: https://blurmit.ml
+
+commands:
+  duelbot:
+    description: The main command for the frost bots plugin
+    permission: frostbots.commands.duelbot
+permissions:
+  frostbots.commands.duelbot:
+    default: true
+    description: The permission for the main frost bots command
